@@ -1,6 +1,6 @@
 {
   "name": "clutch-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "CLUTCH — tracker de Valorant con datos de demostración (app Android con Capacitor)",
   "dependencies": {
