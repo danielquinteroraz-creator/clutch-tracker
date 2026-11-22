@@ -1,0 +1,7 @@
+{
+  "appId": "com.clutch.tracker",
+  "appName": "CLUTCH",
+  "webDir": "www",
+  "backgroundColor": "#0e1116",
+  "android": { "backgroundColor": "#0e1116" }
+}
